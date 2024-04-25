@@ -1,0 +1,17 @@
+{
+  "name": "ej1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e1.js",
+  "scripts": {
+    "start": "node ej1.js",
+    "dev": "nodemon e1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ej2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej2.js",
+  "scripts": {
+    "start": "node ej2.js",
+    "dev": "nodemon ej2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
